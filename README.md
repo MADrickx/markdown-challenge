@@ -10,7 +10,7 @@
 | -------------------- | ----------------------------------------- |
 | Favorite Color       | Purple                                    |
 | Favorite food        | pineapple-pizza                           |
-| Pineapple on pizza ? | <ul><li>[ ] yes</li><li> [ ] no</li></ul> |
+| Pineapple on pizza ? | <ul><li>[x] yes</li><li> [ ] no</li></ul> |
 
 ------
 
@@ -42,5 +42,5 @@ Went to a QOTSA concert, a dude with a Spiderman outfit came up, went on stage a
 
 
 
-[<< previous](https://github.com/AntoineLemlin/markdown-challenge) [|| Audric Skivée ||](https://github.com/MADrickx/markdown-challenge)[next >>](https://github.com/Baysaaaa/markdown-challenge)
+[<< previous ](https://github.com/AntoineLemlin/markdown-challenge) [|| Audric Skivée || ](https://github.com/MADrickx/markdown-challenge)[next >>](https://github.com/Baysaaaa/markdown-challenge)
 
