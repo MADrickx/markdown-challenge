@@ -6,11 +6,11 @@
 
 ## Me in one sentence
 
-| Birthday             | 08/01            |
-| -------------------- | ---------------- |
-| Favorite Color       | Purple           |
-| Favorite food        | pineapple-pizza  |
-| Pineapple on pizza ? | - [ ] yes [ ] no |
+| Birthday             | 08/01                                     |
+| -------------------- | ----------------------------------------- |
+| Favorite Color       | Purple                                    |
+| Favorite food        | pineapple-pizza                           |
+| Pineapple on pizza ? | <ul><li>[ ] yes</li><li> [ ] no</li></ul> |
 
 ------
 
